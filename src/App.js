@@ -1,9 +1,10 @@
 import React from 'react';
+import Navi from './Navi';
 
 function App() {
   return (
     <div className="App">
-      <h2>Hello from react</h2>     
+      <Navi/>     
     </div>
   );
 }
